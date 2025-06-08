@@ -1,0 +1,14 @@
+# Compilación Java
+*.class
+bin/
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+# Archivos de log
+*.log
